@@ -96,3 +96,12 @@ Idx  Name                           Value              Size       Type     Bind 
 { . . . }
 
 ```
+
+## Troubleshooting & Community
+
+This is private project for internal member group, If you encounter any issues, please check the existing issues first.  
+- Report new bugs or unexpected behavior by opening a detailed issue.  
+- For questions, suggestions, or discussions, feel free to start a thread in the discussions tab.  
+- Pull requests to improve documentation, fix bugs, or add features are always welcome.  
+
+Thank you for contributing to the project!
